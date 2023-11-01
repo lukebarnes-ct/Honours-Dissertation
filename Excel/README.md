@@ -1,4 +1,4 @@
-# Execl files
+# Excel Files
 this folder contains:
 - the original Robert Shiller dataset from his website
 - the modified version of the Robert Shiller dataset
